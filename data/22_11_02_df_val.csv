@@ -1,0 +1,10 @@
+ID,ID,Gender,Age,Age_Bin,age_gender
+CON11,CON11,Male,52,"(23.999, 58.0]","(23.999, 58.0]Male"
+CON68,CON68,Male,71,"(69.0, 81.0]","(69.0, 81.0]Male"
+CON42,CON42,Male,69,"(58.0, 69.0]","(58.0, 69.0]Male"
+CON73,CON73,Male,86,"(81.0, 94.0]","(81.0, 94.0]Male"
+CON33,CON33,Female,81,"(69.0, 81.0]","(69.0, 81.0]Female"
+CON5,CON5,Male,36,"(23.999, 58.0]","(23.999, 58.0]Male"
+CON35,CON35,Female,67,"(58.0, 69.0]","(58.0, 69.0]Female"
+CON18,CON18,Female,53,"(23.999, 58.0]","(23.999, 58.0]Female"
+CON70,CON70,Female,86,"(81.0, 94.0]","(81.0, 94.0]Female"
